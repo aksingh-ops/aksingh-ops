@@ -1,16 +1,56 @@
-## Hi there 👋
+# Akash Bhupesh Singh
 
-<!--
-**aksingh-ops/aksingh-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Business Intelligence | Data Engineering  
+Master of Business Analytics | 3+ Years Experience  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a data professional specializing in analytics, business intelligence, and data engineering.  
+My work focuses on transforming raw data into structured, validated, and decision-ready insights.
+
+I have hands-on experience in SQL, Python, ETL pipelines, and cloud-based data platforms.  
+I enjoy building scalable data solutions that drive measurable business impact.
+
+---
+
+## Technical Skills
+
+**Languages & Querying**
+- SQL (BigQuery, SQL Server, PostgreSQL)
+- Python (Pandas, NumPy, Matplotlib)
+- Advanced Excel
+
+**Data Engineering**
+- ETL / ELT Pipelines
+- Data Modeling (Star Schema)
+- Data Warehousing
+- API Integration
+- Data Validation & Governance
+
+**Business Intelligence**
+- Power BI
+- Tableau
+- Looker
+
+**Cloud Platforms**
+- Google Cloud Platform
+- Microsoft Azure
+- AWS
+
+---
+
+## Current Focus
+
+- Building end-to-end analytics projects
+- Developing production-ready ETL workflows
+- Strengthening data architecture design
+- Applying analytics to finance and asset management use cases
+
+---
+
+## Connect With Me
+
+- LinkedIn: (add your link)
+- Email: (your email)
