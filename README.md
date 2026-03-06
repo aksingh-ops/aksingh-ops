@@ -59,7 +59,4 @@ My work sits at the intersection of **engineering** and **analysis**: I care as 
 *"Data only has value when it drives decisions."*
 
 <br/>
-
-[![Contact](https://img.shields.io/badge/Get%20in%20touch%20→-0b0d0f?style=for-the-badge&logo=gmail&logoColor=c9a84c&labelColor=0b0d0f&color=1e2226)](mailto:singh0811akash@gmail.com)
-
 </div>
