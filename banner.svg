@@ -1,0 +1,106 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&amp;family=DM+Mono:wght@300;400&amp;display=swap');
+    </style>
+
+    <!-- Background gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0d0f"/>
+      <stop offset="100%" stop-color="#111416"/>
+    </linearGradient>
+
+    <!-- Gold glow top -->
+    <radialGradient id="glow" cx="50%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#c9a84c" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0b0d0f" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Gold line gradient -->
+    <linearGradient id="goldLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c9a84c" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#c9a84c" stop-opacity="0.6"/>
+      <stop offset="70%" stop-color="#c9a84c" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#c9a84c" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="dimLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1e2226" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#1e2226" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#1e2226" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#1e2226" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)"/>
+  <rect width="900" height="280" fill="url(#glow)"/>
+
+  <!-- Top gold line -->
+  <rect x="0" y="0" width="900" height="1" fill="url(#goldLine)"/>
+
+  <!-- Bottom border -->
+  <rect x="0" y="279" width="900" height="1" fill="url(#dimLine)"/>
+
+  <!-- Left accent bar -->
+  <rect x="56" y="72" width="1" height="136" fill="#c9a84c" opacity="0.4"/>
+
+  <!-- EYEBROW — monospaced label -->
+  <text
+    x="76" y="98"
+    font-family="'DM Mono', monospace"
+    font-size="10"
+    font-weight="300"
+    letter-spacing="3"
+    fill="#c9a84c"
+    opacity="0.85"
+    text-anchor="start">
+    DATA ANALYST · BUSINESS INTELLIGENCE · DATA ENGINEERING
+  </text>
+
+  <!-- NAME — serif display -->
+  <text
+    x="76" y="162"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-size="62"
+    font-weight="300"
+    font-style="normal"
+    letter-spacing="1"
+    fill="#e8e2d9"
+    text-anchor="start">
+    Akash Bhupesh
+  </text>
+
+  <!-- SURNAME italic gold -->
+  <text
+    x="76" y="210"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-size="62"
+    font-weight="300"
+    font-style="italic"
+    letter-spacing="1"
+    fill="#c9a84c"
+    text-anchor="start">
+    Singh
+  </text>
+
+  <!-- Footer line -->
+  <rect x="56" y="236" width="340" height="1" fill="url(#dimLine)" opacity="0.6"/>
+
+  <!-- Footer text -->
+  <text
+    x="76" y="256"
+    font-family="'DM Mono', monospace"
+    font-size="9.5"
+    font-weight="300"
+    letter-spacing="2.5"
+    fill="#3d4349"
+    text-anchor="start">
+    M.S. BUSINESS ANALYTICS · 3+ YEARS EXPERIENCE
+  </text>
+
+  <!-- Decorative corner dots -->
+  <circle cx="841" cy="56" r="1.5" fill="#c9a84c" opacity="0.3"/>
+  <circle cx="849" cy="56" r="1.5" fill="#c9a84c" opacity="0.15"/>
+  <circle cx="857" cy="56" r="1.5" fill="#c9a84c" opacity="0.07"/>
+</svg>
