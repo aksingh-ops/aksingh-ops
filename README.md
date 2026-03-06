@@ -1,20 +1,4 @@
-<div align="center">
 
-![header](./banner.svg)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/singh0811akash%40gmail.com-0b0d0f?style=flat-square&logo=gmail&logoColor=c9a84c&labelColor=0b0d0f&color=1e2226)](mailto:singh0811akash@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0d0f?style=flat-square&logo=linkedin&logoColor=c9a84c&labelColor=0b0d0f&color=1e2226)](https://linkedin.com/in/YOUR_HANDLE)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b0d0f?style=flat-square&logo=github&logoColor=c9a84c&labelColor=0b0d0f&color=1e2226)](https://github.com/YOUR_USERNAME)
-
-</div>
-
-<br/>
-
----
 
 <br/>
 
