@@ -50,7 +50,5 @@ I enjoy building scalable data solutions that drive measurable business impact.
 
 ---
 
-## Connect With Me
 
-- LinkedIn: [Akash Bhupesh Singh](https://www.linkedin.com/in/akash-bhupesh-singh/)
 - Email: singh0811akash@gmail.com
