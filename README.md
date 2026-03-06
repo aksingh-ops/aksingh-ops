@@ -67,27 +67,8 @@ My work sits at the intersection of **engineering** and **analysis**: I care as 
 
 <br/>
 
----
 
-<br/>
 
-### ◆ &nbsp; GitHub Activity
-
-<br/>
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0b0d0f&title_color=c9a84c&text_color=7a8087&icon_color=c9a84c&hide_title=true)
-&nbsp;&nbsp;
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0b0d0f&title_color=c9a84c&text_color=7a8087)
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
 
