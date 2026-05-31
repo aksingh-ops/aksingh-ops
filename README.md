@@ -163,13 +163,13 @@ My edge is sitting at the intersection of **technical depth** and **business flu
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aksingh-ops&show_icons=true&theme=github_dark&hide_border=true&title_color=4A90D9&icon_color=4A90D9&text_color=C9D1D9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aksingh-ops&theme=github-dark-blue&hide_border=true&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9)](https://github.com/aksingh-ops)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksingh-ops&layout=compact&theme=github_dark&hide_border=true&title_color=4A90D9&text_color=C9D1D9)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksingh-ops&layout=compact&theme=github_dark&hide_border=true&title_color=4A90D9&text_color=C9D1D9&langs_count=6)](https://github.com/aksingh-ops?tab=repositories)
 
 </div>
 
