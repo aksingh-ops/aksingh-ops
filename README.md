@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bhupesh-singh/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aksingh-ops)
-[![Location](https://img.shields.io/badge/📍_Des_Moines,_Iowa-F8F9FA?style=for-the-badge&color=0A3161&labelColor=0A3161&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/📍_United States-F8F9FA?style=for-the-badge&color=0A3161&labelColor=0A3161&logoColor=white)](#)
 [![OPT Status](https://img.shields.io/badge/STEM_OPT-Active_(36_Mo)-28a745?style=for-the-badge)](#)
 
 </div>
