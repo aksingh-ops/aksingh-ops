@@ -163,15 +163,14 @@ My edge is sitting at the intersection of **technical depth** and **business flu
 
 ---
 
-## 📊 GitHub Activity
+## 💻 Primary Languages & Tools
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aksingh-ops&theme=github-dark-blue&hide_border=true&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9)](https://github.com/aksingh-ops)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksingh-ops&layout=compact&theme=github_dark&hide_border=true&title_color=4A90D9&text_color=C9D1D9&langs_count=6)](https://github.com/aksingh-ops?tab=repositories)
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
@@ -179,7 +178,7 @@ My edge is sitting at the intersection of **technical depth** and **business flu
 
 I'm actively seeking **Data Analyst, Business Analyst, and Analytics Engineer** roles across the U.S.
 
-📧 Reach me via [LinkedIn](https://www.linkedin.com/in/akash-bhupesh-singh/) · Open to sponsorship conversations (STEM OPT active — 36 months)
+📧 Reach me via [LinkedIn](https://www.linkedin.com/in/akash-bhupesh-singh/)
 
 ---
 
