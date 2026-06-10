@@ -73,54 +73,82 @@ Projects span seven industries — meaning I can contribute on day one regardles
 
 ## Featured Projects
 
-### Best Buy Marketplace Product Data Quality Audit
-`Retail / E-commerce` · Excel · Power Query · LAMBDA Functions
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Domain</th>
+      <th>Stack</th>
+      <th>Highlight</th>
+    </tr>
+  </thead>
+  <tbody>
 
-Best Buy's FY2026 Marketplace expansion dramatically increased third-party seller volume, introducing data quality failures that directly break supply chain recognition, AI recommendations, and commission accuracy. This project builds a six-sheet Excel audit pipeline for 1,040 SKUs across eight sellers — automated validation rules for seven issue types, a weighted seller quality scorecard, and an executive summary with live KPI counts. Grounded in Best Buy's actual Marketplace Standard Terms (April 2025) and PDM portal documentation.
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/best-buy-marketplace-dq-audit">Best Buy Marketplace Product Data Quality Audit</a></strong></td>
+    <td>Retail / E-commerce</td>
+    <td>Excel · Power Query · LAMBDA</td>
+    <td>Six-sheet audit pipeline for 1,040 SKUs — automated validation for 7 issue types, weighted seller scorecard</td>
+  </tr>
 
-[View Repository](https://github.com/aksingh-ops/best-buy-marketplace-dq-audit)
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/tariff-inventory-stress-testing">Tariff Shock Inventory Stress-Testing</a></strong></td>
+    <td>Retail / Supply Chain</td>
+    <td>Excel · SQL-style Analysis · FRED Data</td>
+    <td>120 SKUs stress-tested across 4 tariff scenarios (0% to 200%); break-even reprice and reorder urgency surfaced per SKU</td>
+  </tr>
 
-### Tariff Shock Inventory Stress-Testing for Consumer Electronics Retail
-`Retail / Supply Chain` · Excel · SQL-style Analysis · FRED Economic Data
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/AA-Crew-Absence-Prediction-Reserve-Optimization">AA Crew Absence Prediction & Reserve Optimization</a></strong></td>
+    <td>Aviation / Transportation</td>
+    <td>Python · XGBoost · BTS Data · SHAP</td>
+    <td>AUC 0.87 · Recall 0.91 on 820,876 flight records · $1.3M estimated annual reserve savings at DFW and CLT</td>
+  </tr>
 
-With 145% tariffs on Chinese imports in 2025 and Best Buy cutting its full-year guidance citing tariff uncertainty, every consumer electronics analyst team is running the same question: which SKUs are selling at a loss, which suppliers are dangerous concentrations, and what do we need to reprice before the next quarterly review? This project stress-tests 120 SKUs across four tariff scenarios (0% / 25% / 145% / 200%), computes break-even reprice per SKU, and surfaces the 30 most reorder-urgent items with lead time and margin context. Anchored to FRED Series MRTSIR4423XUSS showing the electronics inventory-to-sales ratio at 1.61 in December 2025.
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/employee-attrition-risk-scoring">Employee Attrition Risk Scoring</a></strong></td>
+    <td>HR & People Analytics</td>
+    <td>Python · Random Forest · SHAP · SMOTE</td>
+    <td>AUC 0.748 on 1,470 IBM HR records · High-risk tier validated at 41.7% actual attrition vs 8.1% Low-risk</td>
+  </tr>
 
-[View Repository](https://github.com/aksingh-ops/tariff-inventory-stress-testing)
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/pay-equity-anomaly-detection">Pay Equity Anomaly Detection Pipeline</a></strong></td>
+    <td>HR & People Analytics</td>
+    <td>Python · Alteryx ETL · OLS · Statsmodels</td>
+    <td>R-squared 0.9325 · Controlled gender gap 2.52% (p=0.0005) · Detected 4 of 5 injected pay gaps including 15-person Finance VP cohort</td>
+  </tr>
 
-### AA Crew Absence Prediction & Reserve Optimization
-`Aviation / Transportation` · Python · XGBoost · BTS Flight Data · SHAP
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/slo-monitoring-dashboard">Operational SLO Monitoring Dashboard</a></strong></td>
+    <td>FinTech & Platform Operations</td>
+    <td>Python · Z-score · CUSUM · SARIMAX</td>
+    <td>100% detection (8/8) of injected failure events · 29% false alarm reduction · SARIMAX MAPE 0.12% on 140,544 metric readings</td>
+  </tr>
 
-End-to-end ML system predicting American Airlines crew sick-calls and optimizing reserve staffing. Built on 820,876 real BTS flight records — XGBoost AUC 0.87, Recall 0.91 at business-optimized threshold. Engineered original Schedule Stress Score composite feature ranked #4 of 35 features by SHAP importance. Reserve cost optimization layer estimated $1.3M annual net benefit across DFW and CLT hubs.
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/loan-portfolio-health-monitoring">Loan Portfolio Health Monitoring</a></strong></td>
+    <td>Financial Services & Credit</td>
+    <td>Python · SQL · Power BI</td>
+    <td>End-to-end credit surveillance with early warning system — delinquency trends, concentration risk, and portfolio migration tracking</td>
+  </tr>
 
-[View Repository](https://github.com/aksingh-ops/AA-Crew-Absence-Prediction-Reserve-Optimization)
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/imdb-airpassengers-ml-analytics">IMDB and AirPassengers ML Analytics</a></strong></td>
+    <td>Machine Learning / Time Series</td>
+    <td>Python · scikit-learn · XGBoost · Prophet · statsmodels</td>
+    <td>5-model regression (XGBoost RMSE 0.85) · 5-model classification (Gradient Boosting accuracy 0.39) · 3 clustering techniques · Exponential Smoothing RMSE 16.98 on AirPassengers forecasting</td>
+  </tr>
 
-### Employee Attrition Risk Scoring
-`HR & People Analytics` · Python · Random Forest · SHAP
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/network-sentiment-recommender-analytics">Network Analysis, Sentiment Analytics & Recommender Systems</a></strong></td>
+    <td>Graph Analytics / NLP / RecSys</td>
+    <td>Python · NetworkX · TextBlob · NLTK · SVD · yfinance</td>
+    <td>PageRank + HITS on 289K-edge social graph · Institutional holders bipartite network for 20 tickers · Dual sentiment ranking (TextBlob + VADER) · SVD collaborative filtering RMSE 1.04 on 75.5% sparse utility matrix</td>
+  </tr>
 
-Individual-level 90-day voluntary attrition prediction on 1,470 IBM HR records — AUC 0.748, Recall 0.511. Resolved 5.2:1 class imbalance with SMOTE. Validated High-risk tier at 41.7% actual attrition versus 8.1% Low-risk. SHAP TreeExplainer surfaced top drivers per employee including StockOptionLevel, JobLevel, and JobSatisfaction.
-
-[View Repository](https://github.com/aksingh-ops/employee-attrition-risk-scoring)
-
-### Pay Equity Anomaly Detection Pipeline
-`HR & People Analytics` · Python · Alteryx ETL · OLS Regression · Statsmodels
-
-Automated Alteryx ETL pipeline joining three HR source systems (HRIS, Comp, Performance) with zero manual steps. OLS regression on 950 employees achieved R-squared 0.9325 — controlled gender gap 2.52% at p=0.0005. Detected 4 of 5 injected pay gaps including a Finance VP cohort of only 15 employees (p=0.0095).
-
-[View Repository](https://github.com/aksingh-ops/pay-equity-anomaly-detection)
-
-### Operational SLO Monitoring Dashboard
-`FinTech & Platform Operations` · Python · Z-score · CUSUM · SARIMAX
-
-Three-method anomaly detection system monitoring 140,544 metric readings across a 4-layer GBM financial platform at 15-minute intervals. Achieved 8/8 (100%) detection of injected failure events. Time-aware SLO thresholds eliminated 29% false alarms. SARIMAX forecasting at MAPE 0.12%.
-
-[View Repository](https://github.com/aksingh-ops/slo-monitoring-dashboard)
-
-### Loan Portfolio Health Monitoring
-`Financial Services & Credit` · Python · SQL · Power BI
-
-End-to-end credit portfolio surveillance with early warning system tracking delinquency trends, concentration risk, and portfolio migration. Designed to surface deteriorating borrower cohorts before they reach charge-off stage. Executive Power BI dashboard with portfolio KPIs and segment breakdowns.
-
-[View Repository](https://github.com/aksingh-ops/loan-portfolio-health-monitoring)
+  </tbody>
+</table>
 
 ## Impact Metrics
 
