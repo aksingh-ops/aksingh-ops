@@ -19,7 +19,7 @@ I turn raw, messy data into decisions that move organizations forward.
 
 With **3+ years of experience** across government analytics, BI engineering, and enterprise data platforms, I specialize in the full analytics lifecycle — from designing ETL pipelines on **Google Cloud Platform** to building executive dashboards in **Looker** and **Power BI** that stakeholders actually use.
 
-My edge is sitting at the intersection of technical depth and business fluency. I've coordinated with 10+ vendors on Iowa's enterprise BI platform, reduced reconciliation overhead by 35%, and built end-to-end analytical systems across seven industries — all while translating findings clearly to non-technical leadership.
+My edge is sitting at the intersection of technical depth and business fluency. I've coordinated with 10+ vendors on Iowa's enterprise BI platform, reduced reconciliation overhead by 35%, and built end-to-end analytical systems across eight industries — all while translating findings clearly to non-technical leadership.
 
 > *"Data is only an asset when it drives decisions. Everything else is storage."*
 
@@ -34,7 +34,7 @@ My edge is sitting at the intersection of technical depth and business fluency. 
 
 ## Industry Coverage
 
-Projects span seven industries — meaning I can contribute on day one regardless of your sector:
+Projects span eight industries — meaning I can contribute on day one regardless of your sector:
 
 ![Retail](https://img.shields.io/badge/Retail_%26_E--commerce-0A3161?style=for-the-badge)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain_%26_Operations-1a5296?style=for-the-badge)
@@ -43,6 +43,7 @@ Projects span seven industries — meaning I can contribute on day one regardles
 ![HR Analytics](https://img.shields.io/badge/HR_%26_People_Analytics-14532d?style=for-the-badge)
 ![FinTech](https://img.shields.io/badge/FinTech_%26_Platform_Ops-783F04?style=for-the-badge)
 ![Government](https://img.shields.io/badge/Government_%26_Public_Sector-37474F?style=for-the-badge)
+![Food Delivery](https://img.shields.io/badge/Food_Delivery_%26_Marketplace-B7950B?style=for-the-badge)
 
 ## Technical Stack
 
@@ -70,6 +71,8 @@ Projects span seven industries — meaning I can contribute on day one regardles
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-8B0000?style=flat-square)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-3c3c3c?style=flat-square)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logoColor=black)
+![scipy](https://img.shields.io/badge/scipy-8CAAE6?style=flat-square)
 
 ## Featured Projects
 
@@ -83,6 +86,13 @@ Projects span seven industries — meaning I can contribute on day one regardles
     </tr>
   </thead>
   <tbody>
+
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/food-delivery-promo-ab-test">Food Delivery Promo Discount A/B Test</a></strong></td>
+    <td>Food Delivery / Marketplace</td>
+    <td>Python · DuckDB SQL · scipy · statsmodels</td>
+    <td>50K users · No significant reorder lift (p=0.52) · Guardrail breached: $7.42 net revenue loss per user · $9.05M annual loss at 100K users/month · Go/No-Go recommendation with 3 alternative promo designs</td>
+  </tr>
 
   <tr>
     <td><strong><a href="https://github.com/aksingh-ops/best-buy-marketplace-dq-audit">Best Buy Marketplace Product Data Quality Audit</a></strong></td>
