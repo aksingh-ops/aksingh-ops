@@ -28,33 +28,10 @@ My edge is sitting at the intersection of technical depth and business fluency. 
 
 ## Work Experience
 
-<table>
-  <thead>
-    <tr>
-      <th>Role</th>
-      <th>Organization</th>
-      <th>Period</th>
-      <th>Scope</th>
-      <th>Key Metrics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Data Analyst</strong></td>
-      <td>Iowa Department of Management</td>
-      <td>May 2024 &ndash; Dec 2025</td>
-      <td>Migrated data, tables, reports, and dashboards from Tyler Technologies legacy RDBMS to GCP BigQuery across 7 state departments. Source-to-target mapping, ETL execution, JSON/REST API integrations, data validation, vendor coordination.</td>
-      <td>35% reconciliation reduction &bull; 4 tasks automated &bull; 25% faster reporting &bull; 7 departments migrated</td>
-    </tr>
-    <tr>
-      <td><strong>Business Analyst / BI Engineer</strong></td>
-      <td>Bhushan &middot; Mumbai</td>
-      <td>2021 &ndash; 2023</td>
-      <td>Built and maintained BI reporting infrastructure supporting 50,000+ monthly transactions. Designed four executive dashboards and translated business requirements into analytical deliverables.</td>
-      <td>50K+ monthly transactions &bull; 4 dashboards built &bull; 20% reporting time reduction</td>
-    </tr>
-  </tbody>
-</table>
+| Role | Organization | Period | Key Impact |
+|---|---|---|---|
+| **Data Analyst** | Iowa Department of Management | May 2024 &ndash; Dec 2025 | Migrated 7 state departments from Tyler Technologies legacy RDBMS to GCP BigQuery &bull; 35% reconciliation reduction &bull; 4 tasks automated |
+| **Business Analyst / BI Engineer** | Bhushan Building Material Supplier | 2021 &ndash; 2023 | BI reporting across 50K+ monthly transactions &bull; 4 executive dashboards &bull; 20% reporting time reduction |
 
 ---
 
