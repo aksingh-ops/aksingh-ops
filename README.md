@@ -19,7 +19,7 @@ I turn raw, messy data into decisions that move organizations forward.
 
 With **3+ years of experience** across government analytics, BI engineering, and enterprise data platforms, I specialize in the full analytics lifecycle — from designing ETL pipelines on **Google Cloud Platform** to building executive dashboards in **Looker** and **Power BI** that stakeholders actually use.
 
-My edge is sitting at the intersection of technical depth and business fluency. I've coordinated with 10+ vendors on Iowa's enterprise BI platform, reduced reconciliation overhead by 35%, and built end-to-end analytical systems across eight industries — all while translating findings clearly to non-technical leadership.
+My edge is sitting at the intersection of technical depth and business fluency. I've coordinated with 10+ vendors on Iowa's enterprise BI platform, reduced reconciliation overhead by 35%, and built end-to-end analytical systems across nine industries — all while translating findings clearly to non-technical leadership.
 
 > *"Data is only an asset when it drives decisions. Everything else is storage."*
 
@@ -34,7 +34,7 @@ My edge is sitting at the intersection of technical depth and business fluency. 
 
 ## Industry Coverage
 
-Projects span eight industries — meaning I can contribute on day one regardless of your sector:
+Projects span nine industries — meaning I can contribute on day one regardless of your sector:
 
 ![Retail](https://img.shields.io/badge/Retail_%26_E--commerce-0A3161?style=for-the-badge)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain_%26_Operations-1a5296?style=for-the-badge)
@@ -44,6 +44,7 @@ Projects span eight industries — meaning I can contribute on day one regardles
 ![FinTech](https://img.shields.io/badge/FinTech_%26_Platform_Ops-783F04?style=for-the-badge)
 ![Government](https://img.shields.io/badge/Government_%26_Public_Sector-37474F?style=for-the-badge)
 ![Food Delivery](https://img.shields.io/badge/Food_Delivery_%26_Marketplace-B7950B?style=for-the-badge)
+![Healthcare](https://img.shields.io/badge/Healthcare_%26_Pharmacy_Analytics-1A5276?style=for-the-badge)
 
 ## Technical Stack
 
@@ -86,6 +87,13 @@ Projects span eight industries — meaning I can contribute on day one regardles
     </tr>
   </thead>
   <tbody>
+
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/medicare-partd-adherence-gap">Medicare Part D Adherence Gap and Star Ratings Revenue-Risk Analysis</a></strong></td>
+    <td>Healthcare / Pharmacy Analytics</td>
+    <td>DuckDB SQL · Python · CMS Part D Data</td>
+    <td>$562.4M quality bonus revenue at risk identified across 3 triple-weighted CMS Star Rating measures · 46/51 states below diabetes threshold · 1.51M beneficiaries · 4-SQL-file pipeline with BRD, revenue model, specialty ranking, and Go/No-Go recommendation</td>
+  </tr>
 
   <tr>
     <td><strong><a href="https://github.com/aksingh-ops/food-delivery-promo-ab-test">Food Delivery Promo Discount A/B Test</a></strong></td>
