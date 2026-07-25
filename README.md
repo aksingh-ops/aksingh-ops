@@ -98,6 +98,7 @@ Projects span nine industries -- meaning I can contribute on day one regardless 
 ![HR Analytics](https://img.shields.io/badge/HR_%26_People_Analytics-14532d?style=for-the-badge)
 ![FinTech](https://img.shields.io/badge/FinTech_%26_Platform_Ops-783F04?style=for-the-badge)
 ![Government](https://img.shields.io/badge/Government_%26_Public_Sector-37474F?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing_%26_Automation-2C3E50?style=for-the-badge)
 
 ---
 
@@ -150,6 +151,20 @@ Projects span nine industries -- meaning I can contribute on day one regardless 
     <td>Financial Services / GBM Operations Analytics</td>
     <td>DuckDB SQL -- Python -- XGBoost -- SARIMAX -- SHAP -- SEC FTD Data</td>
     <td>End-to-end trade settlement fail rate monitoring, counterparty risk ranking, and SLO breach prediction for GBM operations -- XGBoost AUC 0.750 -- SARIMAX MAPE 11.51% -- 10,456 records across 38 securities -- built on SEC Regulation SHO framework with 8 published industry references -- BRD + 3 SQL phases + ML + 5 charts</td>
+  </tr>
+
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/healthcare-claims-cohort-evaluation">Healthcare Claims Cohort and Care Management Outcome Evaluation</a></strong></td>
+    <td>Healthcare / Claims Analytics</td>
+    <td>Python -- SQL -- Chi-Square -- Logistic Regression -- Statsmodels -- CMS SynPUF</td>
+    <td>5,000 patient cohort -- 30-day readmission analysis using chi-square (p &lt; 0.001) and multivariate logistic regression -- Care Management OR 0.446 (55.4% reduction in odds) -- ARR 12.6 pp -- projected $14.4M annual savings per 10,000 members -- SQL cohort selection with LEFT JOIN date-range window -- BRD + 2 SQL files + statistical analysis + 4 charts</td>
+  </tr>
+
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/pharma-fx-api-test-suite">pharma-fx-api-test-suite</a></strong></td>
+    <td>API Testing and Automation</td>
+    <td>Playwright -- TypeScript -- Postman -- Newman CLI -- GitHub Actions CI/CD</td>
+    <td>38 automated API tests across FDA Drug API and Frankfurter FX API -- TypeScript client classes with typed interfaces -- Postman collection with 6 requests and JavaScript assertions -- GitHub Actions pipeline runs on every push -- connects to Medicare Part D and GBM settlement analytics domains</td>
   </tr>
 
   <tr>
