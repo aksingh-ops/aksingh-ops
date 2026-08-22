@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-aksingh--ops.github.io-C9A84C?style=for-the-badge&logo=github&logoColor=white)](https://aksingh-ops.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bhupesh-singh/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aksingh-ops)
-[![Location](https://img.shields.io/badge/United_States-0A3161?style=for-the-badge&labelColor=0A3161&color=0A3161&logoColor=white)](#)
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-28a745?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
 </div>
@@ -20,9 +19,11 @@ I turn raw, messy data into decisions that move organizations forward.
 
 With **3+ years of experience** across government analytics, BI engineering, and enterprise data platforms, I work across the full analytics lifecycle -- from writing SQL pipelines and building ML models to drafting business requirements documents, defining KPIs, and delivering plain-English recommendations to non-technical leadership.
 
-My edge is sitting at the intersection of technical depth and business fluency. I have coordinated with 10+ vendors on Iowa's enterprise BI platform, reduced reconciliation overhead by 35%, and built end-to-end analytical systems across nine industries.
+Currently at **Benda Infotech** (since Feb 2026) building SQL Server and Tableau solutions for banking and financial services clients -- improving data accessibility by 15% and cutting reporting time by 30%.
 
-> *"Data is only an asset when it drives decisions. Everything else is storage."*
+Before that at the **Iowa Department of Management**, I migrated 7 state departments from a Tyler Technologies legacy system to GCP BigQuery, reducing reconciliation errors by 35% and eliminating 4 manual tasks consuming 30+ hours monthly.
+
+> *"Data only has value when it drives decisions."*
 
 ---
 
@@ -30,58 +31,9 @@ My edge is sitting at the intersection of technical depth and business fluency. 
 
 | Role | Organization | Period | Key Impact |
 |---|---|---|---|
-| **Data Analyst** | Iowa Department of Management | May 2024 - Dec 2025 | Migrated 7 state departments from Tyler Technologies legacy RDBMS to GCP BigQuery -- 35% reconciliation reduction -- 4 tasks automated |
-| **Business Analyst / BI Engineer** | Bhushan Building Material Supplier | 2021 - 2023 | BI reporting across 50K+ monthly transactions -- 4 executive dashboards -- 20% reporting time reduction |
-
----
-
-## What I Deliver
-
-<table>
-  <thead>
-    <tr>
-      <th>As a Data Analyst</th>
-      <th>As a Business Analyst</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>SQL pipelines with CTEs, window functions, and multi-table joins</td>
-      <td>Business Requirements Documents with KPI definitions and stakeholder mapping</td>
-    </tr>
-    <tr>
-      <td>Python ML models (XGBoost, Random Forest, SHAP explainability)</td>
-      <td>Experiment design documents with hypotheses, success criteria, and decision frameworks</td>
-    </tr>
-    <tr>
-      <td>Statistical hypothesis testing (z-test, Mann-Whitney, chi-square, power analysis)</td>
-      <td>Go/No-Go recommendations with dollar impact models and three-scenario sensitivity</td>
-    </tr>
-    <tr>
-      <td>Time series forecasting (ARIMA, Prophet, Exponential Smoothing)</td>
-      <td>Executive one-pagers translating statistical findings into plain-English business actions</td>
-    </tr>
-    <tr>
-      <td>Anomaly detection and revenue-at-risk quantification</td>
-      <td>Process improvement recommendations with prioritized action plans and ROI estimates</td>
-    </tr>
-    <tr>
-      <td>ETL pipeline design and source-to-target data mapping on GCP BigQuery</td>
-      <td>Stakeholder-facing dashboards and KPI reporting frameworks in Power BI and Tableau</td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-## Education
-
-| Degree | Institution | Year |
-|---|---|---|
-| **M.S. Business Analytics** | Iowa State University | May 2025 |
-| **B.E. Electronics & Telecom Engineering** | University of Mumbai | 2021 |
-
-**Certifications:** Alteryx Designer Core (85.6%) -- Bloomberg Market Concepts (Feb 2026) -- Microsoft Power BI Data Analyst (Coursera) -- Preparing Data for Analysis with Microsoft Excel
+| **Data Analyst** | Benda Infotech -- Chicago, IL | Feb 2026 -- Present | SQL Server and Tableau solutions for banking clients -- 15% data accessibility improvement -- 30% reporting time reduction |
+| **Data Analyst** | Iowa Department of Management | May 2024 -- Dec 2025 | 7 state departments migrated to GCP BigQuery -- 35% reconciliation error reduction -- 4 manual tasks eliminated |
+| **BI Analyst** | Bhushan Building Material Supplier -- Mumbai | 2021 -- 2023 | 50K+ monthly transactions -- 4 executive dashboards -- 20% reporting time reduction |
 
 ---
 
@@ -90,13 +42,12 @@ My edge is sitting at the intersection of technical depth and business fluency. 
 Projects span nine industries -- meaning I can contribute on day one regardless of your sector:
 
 ![Healthcare](https://img.shields.io/badge/Healthcare_%26_Pharmacy_Analytics-1A5276?style=for-the-badge)
-![Food Delivery](https://img.shields.io/badge/Food_Delivery_%26_Marketplace-B7950B?style=for-the-badge)
+![Financial Services](https://img.shields.io/badge/Financial_Services_%26_GBM_Analytics-6C3483?style=for-the-badge)
 ![Aviation](https://img.shields.io/badge/Aviation_%26_Transportation-27496D?style=for-the-badge)
+![Food Delivery](https://img.shields.io/badge/Food_Delivery_%26_Marketplace-B7950B?style=for-the-badge)
 ![Retail](https://img.shields.io/badge/Retail_%26_E--commerce-0A3161?style=for-the-badge)
 ![Supply Chain](https://img.shields.io/badge/Supply_Chain_%26_Operations-1a5296?style=for-the-badge)
-![Financial Services](https://img.shields.io/badge/Financial_Services_%26_GBM_Analytics-6C3483?style=for-the-badge)
 ![HR Analytics](https://img.shields.io/badge/HR_%26_People_Analytics-14532d?style=for-the-badge)
-![FinTech](https://img.shields.io/badge/FinTech_%26_Platform_Ops-783F04?style=for-the-badge)
 ![Government](https://img.shields.io/badge/Government_%26_Public_Sector-37474F?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API_Testing_%26_Automation-2C3E50?style=for-the-badge)
 
@@ -104,36 +55,41 @@ Projects span nine industries -- meaning I can contribute on day one regardless 
 
 ## Technical Stack
 
-**Languages & Querying**
+**Languages and Querying**
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logoColor=black)
-![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-**Business Intelligence & Visualization**
+**Business Intelligence and Visualization**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-1F6CFF?style=flat-square&logo=alteryx&logoColor=white)
 
-**Cloud & Engineering**
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+**ETL and Data Engineering**
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoft&logoColor=white)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat-square&logo=microsoft&logoColor=white)
+![SAP BW](https://img.shields.io/badge/SAP_BW-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-**Analytics & ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Analytics and ML**
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-8B0000?style=flat-square)
-![scipy](https://img.shields.io/badge/scipy-8CAAE6?style=flat-square)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-3c3c3c?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![statsmodels](https://img.shields.io/badge/Statsmodels-3c3c3c?style=flat-square)
+
+**API Testing and Automation**
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## Featured Projects
+## Featured Projects (14 total)
 
 <table>
   <thead>
@@ -148,100 +104,100 @@ Projects span nine industries -- meaning I can contribute on day one regardless 
 
   <tr>
     <td><strong><a href="https://github.com/aksingh-ops/gbm-settlement-intelligence">GBM Settlement Intelligence</a></strong></td>
-    <td>Financial Services / GBM Operations Analytics</td>
+    <td>Financial Services / GBM Operations</td>
     <td>DuckDB SQL -- Python -- XGBoost -- SARIMAX -- SHAP -- SEC FTD Data</td>
-    <td>End-to-end trade settlement fail rate monitoring, counterparty risk ranking, and SLO breach prediction for GBM operations -- XGBoost AUC 0.750 -- SARIMAX MAPE 11.51% -- 10,456 records across 38 securities -- built on SEC Regulation SHO framework with 8 published industry references -- BRD + 3 SQL phases + ML + 5 charts</td>
+    <td>Trade settlement fail rate monitoring and SLO breach prediction -- XGBoost AUC 0.750 -- SARIMAX MAPE 11.51% -- 10,456 records -- SEC Regulation SHO framework -- 8 published references -- BRD + 3 SQL phases + ML + 5 charts</td>
   </tr>
 
   <tr>
-    <td><strong><a href="https://github.com/aksingh-ops/healthcare-claims-cohort-evaluation">Healthcare Claims Cohort and Care Management Outcome Evaluation</a></strong></td>
+    <td><strong><a href="https://github.com/aksingh-ops/healthcare-claims-cohort-evaluation">Healthcare Claims Cohort Evaluation</a></strong></td>
     <td>Healthcare / Claims Analytics</td>
-    <td>Python -- SQL -- Chi-Square -- Logistic Regression -- Statsmodels -- CMS SynPUF</td>
-    <td>5,000 patient cohort -- 30-day readmission analysis using chi-square (p &lt; 0.001) and multivariate logistic regression -- Care Management OR 0.446 (55.4% reduction in odds) -- ARR 12.6 pp -- projected $14.4M annual savings per 10,000 members -- SQL cohort selection with LEFT JOIN date-range window -- BRD + 2 SQL files + statistical analysis + 4 charts</td>
+    <td>Python -- SQL -- Chi-Square -- Logistic Regression -- Statsmodels</td>
+    <td>30-day readmission cohort analysis on 5,000 patients -- Care Management OR 0.446 -- ARR 12.6 pp -- $14.4M projected annual savings -- LEFT JOIN date-range window -- BRD + 2 SQL files + 4 charts</td>
   </tr>
 
   <tr>
     <td><strong><a href="https://github.com/aksingh-ops/pharma-fx-api-test-suite">pharma-fx-api-test-suite</a></strong></td>
     <td>API Testing and Automation</td>
-    <td>Playwright -- TypeScript -- Postman -- Newman CLI -- GitHub Actions CI/CD</td>
-    <td>38 automated API tests across FDA Drug API and Frankfurter FX API -- TypeScript client classes with typed interfaces -- Postman collection with 6 requests and JavaScript assertions -- GitHub Actions pipeline runs on every push -- connects to Medicare Part D and GBM settlement analytics domains</td>
+    <td>Playwright -- TypeScript -- Postman -- Newman CLI -- GitHub Actions</td>
+    <td>38 automated API tests for FDA Drug API and Frankfurter FX API -- TypeScript typed client classes -- Postman collection with JS assertions -- GitHub Actions CI/CD on every push</td>
   </tr>
 
   <tr>
-    <td><strong><a href="https://github.com/aksingh-ops/medicare-partd-adherence-gap">Medicare Part D Adherence Gap and Star Ratings Revenue-Risk Analysis</a></strong></td>
+    <td><strong><a href="https://github.com/aksingh-ops/medicare-partd-adherence-gap">Medicare Part D Adherence Gap</a></strong></td>
     <td>Healthcare / Pharmacy Analytics</td>
     <td>DuckDB SQL -- Python -- CMS Part D Data</td>
-    <td>$562.4M quality bonus revenue at risk identified across 3 triple-weighted CMS Star Rating measures -- 46/51 states below diabetes threshold -- 1.51M beneficiaries -- BRD + 4 SQL files + revenue model + specialty ranking + exec recommendation</td>
+    <td>$562.4M quality bonus revenue at risk -- 46/51 states below diabetes PDC threshold -- 1.51M beneficiaries -- prescriber specialty outreach ranking -- BRD + 4 SQL files + exec recommendation</td>
   </tr>
 
   <tr>
-    <td><strong><a href="https://github.com/aksingh-ops/food-delivery-promo-ab-test">Food Delivery Promo Discount A/B Test</a></strong></td>
+    <td><strong><a href="https://github.com/aksingh-ops/food-delivery-promo-ab-test">Food Delivery Promo A/B Test</a></strong></td>
     <td>Food Delivery / Marketplace</td>
     <td>Python -- DuckDB SQL -- scipy -- statsmodels</td>
-    <td>50K users -- No significant reorder lift (p=0.52) -- Guardrail breached: $7.42 net revenue loss per user -- $9.05M annual loss at 100K users/month -- Experiment design doc + power analysis + 3 hypothesis tests + dollar model + Go/No-Go recommendation</td>
+    <td>50K users -- No lift (p=0.52) -- Guardrail breached: $7.42 net revenue loss per user -- $9.05M annual risk -- Go/No-Go recommendation + 3 alternative promo designs</td>
   </tr>
 
   <tr>
-    <td><strong><a href="https://github.com/aksingh-ops/AA-Crew-Absence-Prediction-Reserve-Optimization">AA Crew Absence Prediction & Reserve Optimization</a></strong></td>
+    <td><strong><a href="https://github.com/aksingh-ops/AA-Crew-Absence-Prediction-Reserve-Optimization">AA Crew Absence Prediction</a></strong></td>
     <td>Aviation / Transportation</td>
     <td>Python -- XGBoost -- BTS Data -- SHAP</td>
-    <td>AUC 0.87 -- Recall 0.91 on 820,876 BTS flight records -- $1.3M estimated annual reserve savings at DFW and CLT -- Original Schedule Stress Score feature ranked #4 of 35 by SHAP importance</td>
+    <td>AUC 0.87 -- Recall 0.91 on 820,876 BTS flight records -- $1.3M estimated reserve savings at DFW and CLT -- Original Schedule Stress Score feature ranked #4 of 35 by SHAP</td>
   </tr>
 
   <tr>
-    <td><strong><a href="https://github.com/aksingh-ops/best-buy-marketplace-dq-audit">Best Buy Marketplace Product Data Quality Audit</a></strong></td>
+    <td><strong><a href="https://github.com/aksingh-ops/best-buy-marketplace-dq-audit">Best Buy Marketplace DQ Audit</a></strong></td>
     <td>Retail / E-commerce</td>
     <td>Excel -- Power Query -- LAMBDA</td>
-    <td>Six-sheet audit pipeline for 1,040 SKUs -- Automated validation for 7 issue types -- Weighted seller quality scorecard -- Grounded in Best Buy Marketplace Standard Terms (April 2025)</td>
+    <td>Six-sheet audit pipeline for 1,040 SKUs -- 7 automated validation types -- Weighted seller quality scorecard -- Grounded in Best Buy Marketplace Standard Terms (April 2025)</td>
   </tr>
 
   <tr>
-    <td><strong><a href="https://github.com/aksingh-ops/tariff-inventory-stress-testing">Tariff Shock Inventory Stress-Testing</a></strong></td>
+    <td><strong><a href="https://github.com/aksingh-ops/tariff-inventory-stress-testing">Tariff Inventory Stress Testing</a></strong></td>
     <td>Retail / Supply Chain</td>
-    <td>Excel -- SQL-style Analysis -- FRED Data</td>
-    <td>120 SKUs stress-tested across 4 tariff scenarios (0% to 200%) -- Break-even reprice and reorder urgency surfaced per SKU -- Anchored to FRED electronics inventory-to-sales ratio</td>
+    <td>Excel -- Scenario Analysis -- FRED Data</td>
+    <td>120 SKUs stress-tested across 4 tariff scenarios (0% to 200%) -- Break-even reprice and reorder urgency per SKU -- Anchored to FRED electronics inventory-to-sales ratio</td>
   </tr>
 
   <tr>
-    <td><strong><a href="https://github.com/aksingh-ops/pay-equity-anomaly-detection">Pay Equity Anomaly Detection Pipeline</a></strong></td>
-    <td>HR & People Analytics</td>
+    <td><strong><a href="https://github.com/aksingh-ops/pay-equity-anomaly-detection">Pay Equity Anomaly Detection</a></strong></td>
+    <td>HR and People Analytics</td>
     <td>Python -- Alteryx ETL -- OLS -- Statsmodels</td>
     <td>R-squared 0.9325 -- Controlled gender gap 2.52% (p=0.0005) -- Detected 4 of 5 injected pay gaps including a Finance VP cohort of only 15 employees (p=0.0095)</td>
   </tr>
 
   <tr>
     <td><strong><a href="https://github.com/aksingh-ops/employee-attrition-risk-scoring">Employee Attrition Risk Scoring</a></strong></td>
-    <td>HR & People Analytics</td>
+    <td>HR and People Analytics</td>
     <td>Python -- Random Forest -- SHAP -- SMOTE</td>
-    <td>AUC 0.748 on 1,470 IBM HR records -- High-risk tier validated at 41.7% actual attrition vs 8.1% Low-risk -- SHAP TreeExplainer surfaced top drivers per employee</td>
+    <td>AUC 0.748 on 1,470 IBM HR records -- High-risk tier validated at 41.7% actual attrition vs 8.1% Low-risk -- SHAP TreeExplainer surfaces top drivers per employee</td>
   </tr>
 
   <tr>
     <td><strong><a href="https://github.com/aksingh-ops/slo-monitoring-dashboard">Operational SLO Monitoring Dashboard</a></strong></td>
-    <td>FinTech & Platform Operations</td>
+    <td>FinTech / Platform Operations</td>
     <td>Python -- Z-score -- CUSUM -- SARIMAX</td>
-    <td>100% detection (8/8) of injected failure events -- 29% false alarm reduction -- SARIMAX MAPE 0.12% on 140,544 metric readings across 4-layer GBM financial platform</td>
+    <td>100% detection (8/8) of injected failure events -- 29% false alarm reduction -- SARIMAX MAPE 0.12% on 140,544 metric readings across a 4-layer GBM financial platform</td>
   </tr>
 
   <tr>
     <td><strong><a href="https://github.com/aksingh-ops/loan-portfolio-health-monitoring">Loan Portfolio Health Monitoring</a></strong></td>
-    <td>Financial Services & Credit</td>
+    <td>Financial Services / Credit</td>
     <td>Python -- SQL -- Power BI</td>
-    <td>End-to-end credit portfolio surveillance -- Early warning system tracking delinquency trends, concentration risk, and portfolio migration -- Executive Power BI dashboard with segment breakdowns</td>
+    <td>End-to-end credit portfolio surveillance -- delinquency trending, concentration risk, and portfolio migration -- Executive Power BI dashboard with segment breakdowns</td>
   </tr>
 
   <tr>
     <td><strong><a href="https://github.com/aksingh-ops/imdb-airpassengers-ml-analytics">IMDB and AirPassengers ML Analytics</a></strong></td>
     <td>Machine Learning / Time Series</td>
     <td>Python -- scikit-learn -- XGBoost -- Prophet -- statsmodels</td>
-    <td>5-model regression (XGBoost RMSE 0.85) -- 5-model classification (Gradient Boosting accuracy 0.39) -- 3 clustering techniques -- Exponential Smoothing RMSE 16.98 on AirPassengers forecasting</td>
+    <td>5-model regression (XGBoost RMSE 0.85) -- 5-model classification -- 3 clustering techniques -- Exponential Smoothing RMSE 16.98 on AirPassengers forecasting</td>
   </tr>
 
   <tr>
-    <td><strong><a href="https://github.com/aksingh-ops/network-sentiment-recommender-analytics">Network Analysis, Sentiment Analytics & Recommender Systems</a></strong></td>
+    <td><strong><a href="https://github.com/aksingh-ops/network-sentiment-recommender-analytics">Network, Sentiment and Recommender Analytics</a></strong></td>
     <td>Graph Analytics / NLP / RecSys</td>
     <td>Python -- NetworkX -- TextBlob -- NLTK -- SVD -- yfinance</td>
-    <td>PageRank + HITS on 289K-edge social graph -- Institutional holders bipartite network for 20 tickers -- Dual sentiment ranking (TextBlob + VADER) -- SVD collaborative filtering RMSE 1.04 on 75.5% sparse utility matrix</td>
+    <td>PageRank + HITS on 289K-edge social graph -- Bipartite institutional holders network for 20 tickers -- Dual sentiment ranking -- SVD collaborative filtering RMSE 1.04</td>
   </tr>
 
   </tbody>
@@ -253,34 +209,39 @@ Projects span nine industries -- meaning I can contribute on day one regardless 
 
 | Metric | Result |
 |---|---|
-| Reconciliation cycle reduction | **35%** |
+| Reconciliation cycle error reduction | **35%** |
 | Manual tasks eliminated via automation | **4** |
 | Reporting turnaround improvement | **25%** |
 | Operational efficiency improvement | **18%** |
 | Data accuracy improvement | **15%** |
+| Data accessibility improvement (Benda) | **15%** |
+| Reporting time reduction (Benda) | **30%** |
 | Vendors and stakeholders coordinated | **10+** |
 | State departments migrated to GCP BigQuery | **7** |
 
 ---
 
-## Primary Languages & Tools
+## Education and Certifications
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-1F6CFF?style=for-the-badge&logo=alteryx&logoColor=white)
+| | |
+|---|---|
+| **M.S. Business Analytics** | Iowa State University -- May 2025 |
+| **B.E. Electronics and Telecom Engineering** | University of Mumbai |
+| **Alteryx Designer Core** | Apr 2026 (85.6%) |
+| **Bloomberg Market Concepts** | Feb 2026 |
+| **Microsoft Power BI Data Analyst** | Coursera |
+| **SAP Business Analyst Professional Certificate** | Completed |
+| **Claude AI with Google Cloud Vertex AI** | Completed |
 
 ---
 
 ## Let's Connect
 
-Actively seeking Data Analyst and Business Analyst roles across the U.S.
+Actively seeking Data Analyst and Business Analyst roles across the US.
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-aksingh--ops.github.io-C9A84C?style=for-the-badge&logo=github&logoColor=white)](https://aksingh-ops.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aksingh--ops.github.io-C9A84C?style=for-the-badge&logo=github&logoColor=white)](https://aksingh-ops.github.io)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bhupesh-singh/)
+[![Email](https://img.shields.io/badge/Email-singh0811akash%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singh0811akash@gmail.com)
 
 <div align="center">
 
