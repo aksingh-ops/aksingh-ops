@@ -225,10 +225,10 @@ Projects span nine industries -- meaning I can contribute on day one regardless 
 
 | | |
 |---|---|
-| **M.S. Business Analytics** | Iowa State University -- May 2025 |
+| **M.S. Business Analytics** | Iowa State University |
 | **B.E. Electronics and Telecom Engineering** | University of Mumbai |
-| **Alteryx Designer Core** | Apr 2026 (85.6%) |
-| **Bloomberg Market Concepts** | Feb 2026 |
+| **Alteryx Designer Core** |
+| **Bloomberg Market Concepts** | 
 | **Microsoft Power BI Data Analyst** | Coursera |
 | **SAP Business Analyst Professional Certificate** | Completed |
 | **Claude AI with Google Cloud Vertex AI** | Completed |
