@@ -51,6 +51,7 @@ Projects span nine industries. Each one lets me contribute on day one regardless
 [![Government](https://img.shields.io/badge/Government_%26_Public_Sector-37474F?style=for-the-badge)](https://github.com/aksingh-ops/medicare-partd-adherence-gap)
 [![API Testing](https://img.shields.io/badge/API_Testing_%26_Automation-2C3E50?style=for-the-badge)](https://github.com/aksingh-ops/pharma-fx-api-test-suite)
 [![Biomedical](https://img.shields.io/badge/Computational_Biology_%26_Biomedical-117A65?style=for-the-badge)](https://github.com/aksingh-ops/cardiac-gene-expression-eda)
+[![Labor Economics](https://img.shields.io/badge/Labor_Economics_%26_AI_Policy-6D4C41?style=for-the-badge)](https://github.com/aksingh-ops/ai-exposure-youth-employment)
 
 ---
 
@@ -90,7 +91,7 @@ Projects span nine industries. Each one lets me contribute on day one regardless
 
 ---
 
-## Featured Projects (15 total)
+## Featured Projects (17 total)
 
 <table>
   <thead>
@@ -201,6 +202,24 @@ Projects span nine industries. Each one lets me contribute on day one regardless
     <td>PageRank + HITS on 289K-edge social graph · Bipartite institutional holders network for 20 tickers · Dual sentiment ranking · SVD collaborative filtering RMSE 1.04</td>
   </tr>
 
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/ai-exposure-youth-employment">AI Exposure and Youth Employment</a></strong></td>
+    <td>Labor Economics / AI Policy Research</td>
+    <td>Python · CPS Microdata · IPUMS · Regression · Anthropic Economic Index</td>
+    <td>Public data investigation into AI-driven hiring gaps for young workers. Parsed 6M real CPS records. Merged with Anthropic Economic Index AI usage data. Weighted regression with occupation clustered standard errors. 13% relative employment decline for high AI exposure occupations, matching Stanford published range of 13 to 19 percent.</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/iowa-election---campaign-expenditures-time-series">Iowa Election Campaign Expenditure Forecasting</a></strong></td>
+    <td>Government / Political Analytics</td>
+    <td>Python · ARIMA · SARIMAX · Time Series · Iowa Ethics Board Data</td>
+    <td>Time series analysis and forecasting of Iowa State House and Senate committee expenditures. ARIMA and SARIMAX applied to political campaign spending patterns from Iowa Ethics and Campaign Disclosure Board records.</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/aksingh-ops/cardiac-gene-expression-eda">Cardiac Gene Expression Analysis</a></strong></td>
+    <td>Computational Biology / Biomedical</td>
+    <td>Python · GEOparse · scipy · scikit-learn · statsmodels · NCBI GEO</td>
+    <td>GSE36961 public HCM dataset. 481 significant DEGs (FDR < 0.05). Welch two sample t-test with BH correction. Random Forest AUC 0.999 in 5 fold cross validation. Motivated by TIAI published HCM research.</td>
+  </tr>
   </tbody>
 </table>
 
